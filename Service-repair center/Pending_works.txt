@@ -1,0 +1,6 @@
+Work_id   Device Details    Order     Number_of_days
+2143       Dell    Laptop    Service    2    
+6938        Oppo    Mobile    Service    1    
+9620       OnePlus    Mobile    Service    1    
+7251      Macbook    Laptop    Hardware    1    
+4283      samsung    Mobile    Service    1    

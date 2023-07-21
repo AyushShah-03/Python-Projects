@@ -1,0 +1,8 @@
+Work_id     Name             Address      Device    Order      Cost
+2143      parth patel      Ahmedabad   Laptop     Service      2500
+3462      Ayush shah       Vadodara    Laptop     Repairing    5500
+6938      Griva            Ahmedabad   Mobile     Service      1200
+9620      XYZ              Valsad      Mobile     Service      1200
+6510      ABC                Surat     laptop 	  service      3000
+5461      ayush     		amd      mobile     service      2000
+5486    griva     ahd      mobile   repair       3500

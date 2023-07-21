@@ -1,0 +1,7 @@
+Name           Address        PhoneNumber
+Ayush Shah     Ahmedabad      8799219005
+xyz Shah       Ahmedabad      9979531129
+
+ABC  Surat  1234567890
+ayush  amd  9265988348
+griva  ahd  8952671893
